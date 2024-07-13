@@ -18,7 +18,7 @@ export default function Home() {
           variant="h2"
           className="text-xl sm:text-2xl text-muted-foreground"
         >
-          Cut It is a free open source tool to generate short links
+          Cutty  Pro is a free open source tool to generate short links
         </Heading>
       </div>
       <div className="flex items-center w-full max-w-md flex-col gap-4">

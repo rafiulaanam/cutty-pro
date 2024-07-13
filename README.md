@@ -1,6 +1,6 @@
-# [Cut It](https://cutit.vercel.app/)
+# [Cutty Pro](https://cutty-pro.vercel.app/)
 
-[![Skateshop](./public/images/screenshot.png)](https://cutit.vercel.app/)
+[![Skateshop](./public/images/screenshot.png)](https://cutty-pro.vercel.app/)
 
 Cut It is a free open source tool to generate short links
 . With a user-friendly interface and robust functionality, Cut It makes it easy to share and manage shortened links.
